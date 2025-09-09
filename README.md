@@ -74,7 +74,7 @@ Passionate software developer with expertise in full-stack development and machi
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=muntasirhossain2003&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=muntasirhossain2003&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
