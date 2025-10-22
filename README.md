@@ -108,10 +108,4 @@ Passionate software developer with expertise in full-stack development and machi
 
 ---
 
-<div align="center">
-  
-**✨ "Code is like humor. When you have to explain it, it's bad." ✨**
 
-![Profile Views](https://komarev.com/ghpvc/?username=muntasirhossain2003&color=blueviolet&style=for-the-badge)
-
-</div>
